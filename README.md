@@ -12,7 +12,7 @@ Walking Dana through the webpage with the new upgrades that allow be better sear
 ![filterSearch](resources/filterSearch.png)
 ![InitialTablePop](resources/initialTablePop.png)
 ![buildTableFunc](resources/buildTableFunc.png)
-![filterTableFun](resources/filterTableFun.png)
+![filterTableFunc](resources/filterTableFunc.png)
 ![buildTableFunc](resources/buildTableFunc.png)
 ![index_html_5fields](resources/index_html_5fields.png)
 ![pslFilter](resources/pslFilter.png)
