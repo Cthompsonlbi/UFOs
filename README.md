@@ -26,11 +26,15 @@ The purpose of this project is to assist Dana in allowing users to sort through 
 
 ![InitialTablePop](resources/InitialTablePop.png)
 
-
+* Now the code below, using d3.selectAll will detect and change to the input field and store it to the filters variable and later update the table using the update Filters Function.
+* 
 ![filterTableFunc](resources/filterTableFunc.png)
 
+* One example of this code in action is by filter upon my hometown of Port St. Lucie Fl.  As you see below, Port St Lucie we entered into the field:
 
 ![pslFilter](resources/pslFilter.png)
+
+* The result of that search lead to only one UFO sighting that met the requirement of Port St. Lucie
 ![tableFIlterPSL](resources/tableFIlterPSL.png)
 
 
