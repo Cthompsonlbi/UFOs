@@ -10,7 +10,7 @@ The overview of this project is to take a website that accepts a single input fi
 ### Purpose:
 Walking Dana through the webpage with the new upgrades that allow be better search flexibility by allow to filter using multiple parameters, she will see the following:
 ![filterSearch](resources/filterSearch.png)
-!InitialTablePopp](resources/InitialTablePop.png)
+!InitialTablePop](resources/InitialTablePop.png)
 ![buildTableFunc](resources/buildTableFunc.png)
 ![filterTableFunc](resources/filterTableFunc.png)
 ![buildTableFunc](resources/buildTableFunc.png)
