@@ -11,6 +11,7 @@ The overview of this project is to take a website that accepts a single input fi
 The purpose of this project is to assist Dana in allowing users to sort through the available data by searching on multiple parameters so that the user can review the UFO sighting data and decie for themselves what may be real UFO sightings and what may be a government conspiracy.  Walking Dana through the webpage with the new upgrades that allow be better search flexibility by allow to filter using multiple parameters, she will see the following upon loading the webpage:
 
 * The user will see five input fields to help them search for specific UFO sightings.
+
 ![filterSearch](resources/filterSearch.png)
 
 * The table will be fully populated upon the loading of the webpage
