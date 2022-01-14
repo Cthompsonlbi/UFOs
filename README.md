@@ -35,9 +35,18 @@ The purpose of this project is to assist Dana in allowing users to sort through 
 ![pslFilter](resources/pslFilter.png)
 
 * The result of that search lead to only one UFO sighting that met the requirement of Port St. Lucie
+
 ![tableFIlterPSL](resources/tableFIlterPSL.png)
 
+* Now, let's repeat this but changing the city from Port St. Lucie to El Cajon. Now you can see mulitple sighting returned by looking at the image below.
+
+![elcajon](resources/elcajon.png)
+
+* To take this one step further, we can filter further to specifically look at sightings in El Cajon that have a shape of 'light'.  By modifying the 'city' field to El Cajon and the 'shape' field to return sightings characterized as lights, we see the following returned:
+
+![elcajonlight](resources/elcajonlight.png)
 
 ## Results:
+
 ## Summary:
 This was an interesting project and learned a lot.  One of the drawbacks that I saw from a user perspective is there is nothing in place to notify whether or not a parameter like, date, city, or country that is entered is valid.  Another drawback would be the formatting of the inputs.  Meaning the state, country, and dates need to be inputed exactly as it is stored in the data file.  To address this there are a couple of approaches that could be implemented.  The first being error messaging.  If an user inputs and invalid date, city, country or shape or the input does not exist, a message should return stating that the "Input entered by the user does not exist, please modify your input and try again".  Adding some "smarts" that handle date formatting, capitilizations, and abbreviations for countries would be a nice add on feature to make the user experience better. A second option is to offer to return data based on a date range, or a radius.  If the user of the website did not put in a location that is present in the list of available data, it could return filtered data based on dates plus or minus seven days or if a city that is inputed by the user does not return an exact match then a radius option can be selected to return locations within the selected radius.
