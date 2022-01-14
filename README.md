@@ -15,9 +15,11 @@ The purpose of this project is to assist Dana in allowing users to sort through 
 ![filterSearch](resources/filterSearch.png)
 
 * The table will be fully populated upon the loading of the webpage
+
 ![InitialTablePop](resources/InitialTablePop.png)
 
 * The table will be built using the function created below:
+
 ![buildTableFunc](resources/buildTableFunc.png)
 ![filterTableFunc](resources/filterTableFunc.png)
 
