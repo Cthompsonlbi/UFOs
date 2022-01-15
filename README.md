@@ -8,7 +8,7 @@ https://cthompsonlbi.github.io/UFOs/
 ## Overview of Project:
 The overview of this project is to take a website that accepts a single input field to filter data and expand it to allow the user to filter UFO sighting data using multiple criteria.  Instead of having just the option to search for UFO sightings based on date, we will be adding the ability to search for UFO sightings based on date, city, state, country, and/or shape.  We will achieve this by using JavaScript, CSS and HTML.
 ### Purpose:
-The purpose of this project is to assist Dana in allowing users to sort through the available data by searching on multiple parameters so that the user can review the UFO sighting data and decide for themselves what may be real UFO sightings and what may be a government conspiracy.  Walking Dana through the webpage with the new upgrades that allow be better search flexibility by allow to filter using multiple parameters, she will see the following upon loading the webpage:
+The purpose of this project is to create a webpage with direction from Dana that will allow users to sort through the available data by searching on multiple parameters so that the user can review the UFO sighting data and decide for themselves what may be real UFO sightings, what may be a government conspiracy, or what sightings may be a hoax.  Walking Dana through the webpage with the new upgrades that we created will allow be better search flexibility by allow to filter data using multiple parameters, she will see the following upon loading the webpage:
 
 * By modifying the Index HTML file as shown below, we can set the webpage up to handle 5 inputs:
 
