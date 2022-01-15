@@ -26,7 +26,7 @@ The purpose of this project is to create a webpage with direction from Dana that
 
 ![InitialTablePop](resources/InitialTablePop.png)
 
-* Now the code below, using d3.selectAll will detect and change to the input field and store it to the filters variable and later update the table using the update Filters Function.
+* Now the code below, using d3.selectAll event listener, will detect and change to the input field and store it to the filters variable and later update the table using the update Filters Function.
 
 ![filterTableFunc](resources/filterTableFunc.png)
 
